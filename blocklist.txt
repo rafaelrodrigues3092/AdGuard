@@ -1,0 +1,3 @@
+# Block Google Ads
+||www.googleadservices.com^$important
+||adservice.google.com^$important
