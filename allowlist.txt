@@ -1,0 +1,11 @@
+#Allow Paramount+
+@@||saa.cbsi.com^$important
+@@||cbsinteractive.hb.omtrdc.net^$important
+@@||vod-gcs-cedexis.cbsaavideo.com^$important
+@@||cbsaavideo.com^$important
+@@||cbsi.live.ott.irdeto.com^$important
+#Allow CNN Streaming
+@@||aax-us.amazon-adsystem.com^$client='192.168.1.165'
+@@||aax-us.amazon-adsystem.com^$client='192.168.1.82'
+@@||prod.pyxis.atp.fox^$important
+@@||global.ketchcdn.com^$important
