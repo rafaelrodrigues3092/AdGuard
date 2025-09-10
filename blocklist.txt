@@ -2,3 +2,4 @@
 ||www.googleadservices.com^$important
 ||adservice.google.com^$important
 ||stirlingpdf.com
+||ccp-lh.googleusercontent.com
