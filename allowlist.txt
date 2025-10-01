@@ -16,3 +16,21 @@
 @@||onehome.com^$important
 @@||api.loganalytics.io
 @@||pkg.opnsense.org
+#Google and Pixel
+@@||connectivitycheck.gstatic.com
+@@||connectivitycheck.android.com
+@@||clients3.google.com
+@@||clients4.google.com
+@@||clients6.google.com
+@@||mtalk.google.com
+@@||play.googleapis.com
+@@||android.clients.google.com
+@@||www.googleapis.com
+@@||gstatic.com
+@@||lh3.googleusercontent.com
+@@||www.google.com/generate_204
+@@||gstatic.com/generate_204
+@@||dl.google.com
+@@||update.googleapis.com
+@@||ssl.gstatic.com
+@@||fonts.gstatic.com
