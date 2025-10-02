@@ -3,5 +3,6 @@
 ||adservice.google.com^$important
 ||stirlingpdf.com
 ||ccp-lh.googleusercontent.com
+||google-analytics.com
 # Threats & Scame
 ||lucazepa.com
