@@ -74,3 +74,5 @@
 @@||time.google.com
 @@||android-safebrowsing.google.com
 @@||safebrowsing.google.com
+@@||media-secured.nanit.com^$important
+@@||api.nanit.com^$important
